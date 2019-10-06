@@ -60,3 +60,20 @@
 ## :pencil2: Observation:
 
 - I wasn't able to test the application on iOS because I don't have a MacBook to do it.
+
+# :fire: Used technologies
+- ReactJS
+- React Native
+- NodeJS
+- Node Mailer
+- Styled Components
+- Reactotron
+- Redux
+- Redux Saga
+- Postgres
+- Docker
+- Redis
+- Other React and Node libs.
+
+# :man: Contributors
+- @emilioheinz

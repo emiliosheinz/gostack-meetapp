@@ -1,5 +1,8 @@
 # :rocket: gostack-meetapp
 
+## :iphone: Mobile preview
+![App splash screen](mobile/preview-images/Screenshot from 2019-09-16 23-25-21.png?raw=true)
+
 ## :key: Authentication
 
 - [x] The user can login using e-mail and password.

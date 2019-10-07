@@ -1,19 +1,19 @@
-# MeetApp basic requisits
+# :rocket: gostack-meetapp
 
-## Authentication
+## :key: Authentication
 
 - [x] The user can login using e-mail and password.
 - [x] I have used JWT to authenticate the user.
 - [x] All login fields are checked via Yup.
 
-## User register and update
+## :man: User register and update
 
 - [x] The user can register using name, e-mail and password.
 - [x] To update the password user need to send a password confirmation and the old password.
 - [x] User passwords are all encripted.
 - [x] All register and update field requests are checked via Yup.
 
-## MeetUp subscription
+## :calendar: MeetUp subscription
 
 - [x] The user can subscribe to meetups that are not of him.
 - [x] The user can't subscribe to meetups that already happened.
@@ -21,15 +21,15 @@
 - [x] The user can't subscribe to meetups that happen at the same time.
 - [x] The owner of the meetup receive a email when a user subscribe to one of his meetups.
 
-## MeetUps list
+## :bookmark_tabs: MeetUps list
 
 - [x] MeetUps can be list by date and are paged by 10 meetups.
 
-## Subscription list
+## :round_pushpin: Subscription list
 
 - [x] There is a route to list all future meetups that the current user is subscribed.
 
-# Extra
+# :star: Extra
 
 - Added a splash screen to the mobile app.
 - Added a icon to the mobile app.
@@ -38,7 +38,7 @@
 - Added tests to the session controller and the user controller.
 - Web responsive layout.
 
-# Possible improvements
+# :exclamation: Possible improvements
 
 - Add field validation to the mobile application.
 - Add some animations to the mobile and web application.
@@ -46,7 +46,7 @@
 - Add cache to routes like the meetup list route.
 - Support to iOS.
 
-# Running the project
+# :wrench: Running the project
 
 - Yout need to set up all the react-native enviroment.
 - Install docker and create a postgres and redis container.
@@ -57,6 +57,23 @@
 - Enter frontend directory and run `yarn start`.
 - Enter mobile directory and run `react-native run-android` while you are running a Android emulator.
 
-## Observation:
+## :pencil2: Observation:
 
 - I wasn't able to test the application on iOS because I don't have a MacBook to do it.
+
+# :fire: Used technologies
+- ReactJS
+- React Native
+- NodeJS
+- Node Mailer
+- Styled Components
+- Reactotron
+- Redux
+- Redux Saga
+- Postgres
+- Docker
+- Redis
+- Other React and Node libs.
+
+# :man: Contributors
+- @emilioheinz

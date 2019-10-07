@@ -1,7 +1,10 @@
 # :rocket: gostack-meetapp
 
 ## :iphone: Mobile preview
-![App splash screen](mobile/preview-images/splash?raw=true)
+- You can see the mobile app preview printscreens here.
+
+## :computer: Web preview
+- You can see the web preview printscreens here.
 
 ## :key: Authentication
 

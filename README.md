@@ -4,7 +4,7 @@
 - You can see the mobile app preview printscreens [here](/mobile#iphone-mobile-preview).
 
 ## :computer: Web preview
-- You can see the web preview printscreens [here](/frontend).
+- You can see the web preview printscreens [here](/frontend#computer-web-preview).
 
 ## :key: Authentication
 

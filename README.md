@@ -6,7 +6,7 @@
 ## :computer: Web preview
 - You can see the web preview printscreens [here](/frontend#computer-web-preview).
 
-## :key: Authentication
+### :key: Authentication
 
 - [x] The user can login using e-mail and password.
 - [x] I have used JWT to authenticate the user.
@@ -35,7 +35,7 @@
 
 - [x] There is a route to list all future meetups that the current user is subscribed.
 
-# :star: Extra
+## :star: Extra
 
 - Added a splash screen to the mobile app.
 - Added a icon to the mobile app.
@@ -44,7 +44,7 @@
 - Added tests to the session controller and the user controller.
 - Web responsive layout.
 
-# :exclamation: Possible improvements
+## :exclamation: Possible improvements
 
 - Add field validation to the mobile application.
 - Add some animations to the mobile and web application.
@@ -52,7 +52,7 @@
 - Add cache to routes like the meetup list route.
 - Support to iOS.
 
-# :wrench: Running the project
+## :wrench: Running the project
 
 - Yout need to set up all the react-native enviroment.
 - Install docker and create a postgres and redis container.
@@ -67,7 +67,7 @@
 
 - I wasn't able to test the application on iOS because I don't have a MacBook to do it.
 
-# :fire: Used technologies
+## :fire: Used technologies
 - ReactJS
 - React Native
 - NodeJS
@@ -81,5 +81,5 @@
 - Redis
 - Other React and Node libs.
 
-# :man: Contributors
+## :man: Contributors
 - @emilioheinz

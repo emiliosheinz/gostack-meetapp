@@ -1,4 +1,5 @@
 # :rocket: gostack-meetapp
+Application developed with ReactJS, ReactNative and NodeJS during the 7th bootcamp of Rocketseat, it is a app to schedule meetups and subscribe to them.
 
 ## :iphone: Mobile preview
 - You can see the mobile app preview printscreens [here](/mobile#iphone-mobile-preview).
@@ -80,6 +81,3 @@
 - Docker
 - Redis
 - Other React and Node libs.
-
-## :man: Contributors
-- @emilioheinz
